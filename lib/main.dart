@@ -185,7 +185,7 @@ class MyApp extends StatelessWidget {
           useMaterial3: true,
         ),
         home: const LoginScreen(),
-        debugShowCheckedModeBanner: true,
+        debugShowCheckedModeBanner: false,
       ),
     );
   }
